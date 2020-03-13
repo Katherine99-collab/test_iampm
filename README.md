@@ -3,4 +3,4 @@ New repository
  
 ## New title
 
-Information line
+Information text
